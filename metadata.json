@@ -1,0 +1,6 @@
+{
+  "name": "Lego Nuclear Reactor",
+  "description": "An interactive mechanical LEGO simulation of an atomic reactor with PWR/BWR models and epic animated fission physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
